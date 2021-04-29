@@ -1,4 +1,4 @@
-![](githubbanner.mp4)
+![](github_banner.gif)
 
 ### Hi there 👋
 
