@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on building a website for a grassroots organization
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on anything Javascript and Python!
-- 🤔 I’m looking for help with find a developer position
+- 🤔 I’m looking for help with finding a developer position
 - 💬 Ask me about myself
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
