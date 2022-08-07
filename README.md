@@ -19,6 +19,8 @@
 
 Find me on [<a href="https://www.linkedin.com/in/tatyana-parks-a04346198/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]()
 
+Visit my <a href="https://www.tatyanaparks.com">website</a>
+
 ### Languages I love
 
 [<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]()
