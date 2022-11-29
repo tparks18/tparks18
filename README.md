@@ -41,6 +41,7 @@ Visit my <a href="https://www.tatyanaparks.com">website</a>
 
 ### Currently learning
 
-[<img src='https://static.djangoproject.com/img/logos/django-logo-negative.png' height='45'>]()
-
+[<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'/>]()
+<!-- [<img src='https://static.djangoproject.com/img/logos/django-logo-negative.png' height='45'>]()
+ -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tparks18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
