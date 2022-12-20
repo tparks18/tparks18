@@ -17,7 +17,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am an avid reader 📚
 
-Find me on [<a href="https://www.linkedin.com/in/tatyana-parks-a04346198/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]()
+Find me on [<a href="https://www.linkedin.com/in/tatyana-parks-software-developer/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]()
 
 Visit my <a href="https://www.tatyanaparks.com">website</a>
 
