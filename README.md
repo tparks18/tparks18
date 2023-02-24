@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on building a website for a grassroots organization
+- 🔭 I’m currently working on building a website and a missing-persons databse for an NGO called Son Irremplazables
 - 🌱 I’m currently learning Wordpress
 - 👯 I’m looking to collaborate on anything Javascript and Python!
 - 💬 Ask me about myself
