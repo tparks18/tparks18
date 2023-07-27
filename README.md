@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on building a website and a missing-persons databse for an NGO called Son Irremplazables
+- 🔭 I’m currently working on building a website and a missing-persons database for an NGO called Son Irremplazables
 - 🌱 I’m currently learning Wordpress
 - 👯 I’m looking to collaborate on anything Javascript and Python!
 - 💬 Ask me about myself
@@ -33,6 +33,7 @@ Visit my <a href="https://www.tatyanaparks.com">website</a>
 
 [<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]() [<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>]()
+[<img src='https://static.djangoproject.com/img/logos/django-logo-negative.png' height='28'>]()
 
 ### Tools
 
@@ -42,6 +43,5 @@ Visit my <a href="https://www.tatyanaparks.com">website</a>
 ### Currently learning
 
 [<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'/>]()
-<!-- [<img src='https://static.djangoproject.com/img/logos/django-logo-negative.png' height='45'>]()
- -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tparks18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
