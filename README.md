@@ -1,6 +1,6 @@
 <img src="nocturne.gif" width="830px">
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Tatyana
+### Hi there, I'm Tatyana 👋
 
 
 <!--
