@@ -1,4 +1,4 @@
-![](plantbanner.gif)
+![](nocturneinspiredbanner.gif)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Tatyana
 
@@ -6,20 +6,27 @@
 <!--
 **tparks18/tparks18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
-
-- 🔭 I’m currently working on building a website and a missing-persons database for an NGO called Son Irremplazables
+<!--
+- 🔭 I’m currently working on building a website and a missing-persons database for a grassroots organization called Son Irremplazables
 - 🌱 I’m currently learning Wordpress
 - 👯 I’m looking to collaborate on anything Javascript and Python!
 - 💬 Ask me about myself
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am an avid reader 📚
+-->
+
+- <img src="1.png" width="20"> I’m currently working on building a website and a missing-persons database for a grassroots organization called Son Irremplazables
+- <img src="2.png" width="20"> I’m currently learning Wordpress
+- <img src="3.png" width="20"> I’m looking to collaborate on anything Javascript and Python!
+- <img src="4.png" width="20"> Ask me about Castlevania
+- <img src="5.png" width="20"> How to reach me: LinkedIn
+- <img src="6.png" width="20"> Pronouns: She/Her
+- <img src="7.png" width="20"> Fun fact: I am an avid reader 📚
 
 Find me on [<a href="https://www.linkedin.com/in/tatyana-parks-software-developer/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]()
 
-Visit my <a href="https://www.tatyanaparks.com">website</a>
+### Visit my <a href="https://www.tatyanaparks.com">website/portfolio</a>
 
 ### Languages I love
 
