@@ -29,7 +29,7 @@ Find me on [<a href="https://www.linkedin.com/in/tatyana-parks-software-develope
 
 ### Visit my <a href="https://www.tatyanaparks.com">website/portfolio</a>
 
-### Languages I love
+### Languages I Love:
 
 [<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]()
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>]()
@@ -46,7 +46,7 @@ Find me on [<a href="https://www.linkedin.com/in/tatyana-parks-software-develope
 [<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">]()
 
-### Tools
+### Tools:
 
 [<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>]() [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 ]() 
@@ -54,11 +54,11 @@ Find me on [<a href="https://www.linkedin.com/in/tatyana-parks-software-develope
 [<img src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>]()
 
-### Auth
+### Auth:
 
 [<img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>]()
 
-### Currently learning
+### Currently learning:
 
 [<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'/>]()
 
