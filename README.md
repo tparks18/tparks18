@@ -27,7 +27,7 @@
 - <img src="6.png" width="20"> Pronouns: She/Her
 -->
 
-Find me on [<a href="https://www.linkedin.com/in/tatyana-parks-software-developer/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]()
+Find me on [<a href="https://www.linkedin.com/in/tatyana-parks/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]()
 
 ### Visit my <a href="https://www.tatyanaparks.com">website/portfolio</a>
 
