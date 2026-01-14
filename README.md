@@ -62,4 +62,3 @@ Find me on [<a href="https://www.linkedin.com/in/tatyana-parks-software-develope
 
 [<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'/>]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tparks18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
