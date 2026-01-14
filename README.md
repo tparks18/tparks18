@@ -20,10 +20,12 @@
 - <img src="1.png" width="20"> I’m currently working on building an open-source missing-persons database for a grassroots organization called Son Irremplazables
 - <img src="2.png" width="20"> I’m currently learning Wordpress
 - <img src="3.png" width="20"> I’m looking to collaborate on anything Javascript and Python!
-- <img src="4.png" width="20"> Ask me about <img src="castlevanialogo.png" height="35" width="124">
 - <img src="5.png" width="20"> How to reach me: LinkedIn
+- <img src="7.png" width="20"> Fun Fact: I love <img src="castlevanialogo.png" height="35" width="124">
+<!--Fun fact: I am an avid reader 📚
+- <img src="4.png" width="20"> Ask me about
 - <img src="6.png" width="20"> Pronouns: She/Her
-- <img src="7.png" width="20"> Fun fact: I am an avid reader 📚
+-->
 
 Find me on [<a href="https://www.linkedin.com/in/tatyana-parks-software-developer/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]()
 
