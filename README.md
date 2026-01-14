@@ -18,7 +18,7 @@
 -->
 
 - <img src="1.png" width="20"> I’m currently working on building an open-source missing-persons database for a grassroots organization called Son Irremplazables
-- <img src="2.png" width="20"> I’m currently learning Wordpress
+- <img src="2.png" width="20"> I’m currently learning Machine Learning
 - <img src="3.png" width="20"> I’m looking to collaborate on anything Javascript and Python!
 - <img src="5.png" width="20"> How to reach me: LinkedIn
 - <img src="7.png" width="20"> Fun Fact: I love <img src="castlevanialogo.png" height="35" width="124">
