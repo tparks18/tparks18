@@ -60,5 +60,7 @@ Find me on [<a href="https://www.linkedin.com/in/tatyana-parks-software-develope
 
 ### Currently learning:
 
-[<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'/>]()
+<!--[<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'/>]()-->
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000)
+
 
