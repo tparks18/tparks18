@@ -1,4 +1,4 @@
-<img src="nocturne.gif" width="830px">
+<img src="Data Analyst.gif" width="830px">
 
 ### Hi there, I'm Tatyana 👋
 
